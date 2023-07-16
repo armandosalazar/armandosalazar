@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```bash
+echo "I Love This <3"
+```
+
 <!--
 **armandosalazar/armandosalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
