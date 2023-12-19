@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```asm
 global _main
 
